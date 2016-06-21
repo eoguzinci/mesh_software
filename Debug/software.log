@@ -1,0 +1,17 @@
+﻿Build started 3/13/2016 3:13:48 AM.
+     1>Project "D:\software\software\software\software.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\software.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         software.vcxproj -> D:\software\software\Debug\software.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\software.unsuccessfulbuild".
+         Touching "Debug\software.lastbuildstate".
+     1>Done Building Project "D:\software\software\software\software.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.43

@@ -1,0 +1,8 @@
+kareal:1
+kconf:0
+
+Initial Area:0.0625	Initial length:1	Initial x:-1.5	Initial y:1.5	Initial z:0	
+
+Objective Area:0.015625	Objective length:0.5	Objective x:-1.5	Objective y:1.5	Objective z:0	
+
+Final Area:0.0245564	Final length:1.37695	Final x:-1.5401	Final y:1.48919	Final z:0.00366983	

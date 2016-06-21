@@ -1,0 +1,14 @@
+load gradient.txt; load hessian.txt; load initial.txt
+c=-(hessian\gradient);
+
+filename = 'solution.off';
+fid = fopen(filename, 'w');
+
+for row=1:48
+    fprintf(fid,'%d \t', c(row,1));
+    if mod(row,3)==0
+        fprintf(fid,'\n');
+    end
+end
+
+fclose(fid);
